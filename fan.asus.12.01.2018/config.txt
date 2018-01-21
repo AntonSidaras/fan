@@ -1,0 +1,6 @@
+[config]
+Device = ASUS
+Temp_max_th = 56.000
+Temp_step = 2.500
+LogFile = Log/log
+LastActionFile = Log/lastaction
